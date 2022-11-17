@@ -8,7 +8,7 @@
  </head>
  <body>
 	<table border="1">
-	<?php
+	<?php   
 		print("<tr>");// table row 
 		print("<th></th>");//table head
 		for($count = $start; $count <= $end; $count++) //count is equal to start  when count is less than or equal to end count ++ 
